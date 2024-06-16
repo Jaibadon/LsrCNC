@@ -1268,7 +1268,7 @@
 		)
 		(uuid "a7df1a17-fde2-497f-80b6-127a32c0ea76")
 	)
-	(text "MOSFET: IRF6775M - NZD$0.718 - Amount 4x3=12\nGATE DRIVER: NCP5109- NZD$0.706 - Amount 2x3=6\nPROT DIODE: SL510-TP - NZD$0.67 - Amount 4x3=12\nIC: ARM\n"
+	(text "MOSFET: IRF6775M - NZD$0.718 - Amount 4x3=12\nGATE DRIVER: NCP5109- NZD$0.706 - Amount 2x3=6\nPROT DIODE: SL510-TP - NZD$0.67 - Amount 4x3=12\nIC: STM32F031x4\n"
 		(exclude_from_sim no)
 		(at 71.882 24.384 0)
 		(effects
